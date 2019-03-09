@@ -1,0 +1,5 @@
+This folder the processed data as well as csv DataFrames containing the test and train partitions.
+
+TEST, TRAIN, and NEWTRAIN:  TEST contains the processed test images, TRAIN contains the processed train images, and NEWTRAIN contains the processed and augmented train images separated into 5 folds. 
+
+When loading data for model training/evaluation, NEWTRAIN should be used for cross-validation/training, and TEST should be used for evaluation. 
