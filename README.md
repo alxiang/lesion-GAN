@@ -17,5 +17,7 @@ Additionally, after training the CNN (file "7") or multiple CNNs, the prediction
 
 # Important Variable References in code
 "imageList" refers to the training set (roughly 64% of the modified dataset)
+
 "imageValList" refers to the validation set (80% of the modified dataset in conjunction with imageList)
+
 "testList" refers to the set-aside, testing set (remaining 20% of the modified dataset)
