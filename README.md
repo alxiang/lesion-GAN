@@ -2,7 +2,7 @@
 Code for "Towards Interpretable Skin Lesion Classification with Deep Learning Models"
 
 # Link to web interface
-http://54.86.45.94:8081/
+http://34.228.236.189:8081/
 
 # HAM10000 Dataset
 The dataset used for this project was the HAM10000 dataset, accessible at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
